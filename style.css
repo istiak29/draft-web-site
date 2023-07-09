@@ -24,8 +24,11 @@ p {
     background-color: cadetblue;
     color: darkblue;
 }
-.firstrepo{
+.repo{
     background-color: aquamarine;
     padding: 5%;
     box-shadow: 5px 3px 4px rebeccapurple;
+}
+.new{
+    background-color: cadetblue;
 }

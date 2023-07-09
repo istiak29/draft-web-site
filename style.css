@@ -1,0 +1,19 @@
+div {
+    /* border: 3px solid blueviolet; */
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding: 2%;
+    box-shadow: 10px 5px 15px brown;
+
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: burlywood;
+    color: brown;
+}
+
+p {
+    background-color: cadetblue;
+    color: darkblue;
+}

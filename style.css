@@ -12,8 +12,20 @@ h1 {
     background-color: burlywood;
     color: brown;
 }
+h2{
+    background-color: bisque;
+    color: blue;
+    height: 50px;
+    text-align: justify;
+    text-decoration: underline;
+}
 
 p {
     background-color: cadetblue;
     color: darkblue;
+}
+.firstrepo{
+    background-color: aquamarine;
+    padding: 5%;
+    box-shadow: 5px 3px 4px rebeccapurple;
 }
